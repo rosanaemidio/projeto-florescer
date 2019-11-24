@@ -31,7 +31,7 @@ header {
 .img-carousel {
   object-fit: cover;
   object-position: 0 50%;
-  height: 90vh;
+  height: 76vh;
 }
 
 header h1 {
@@ -52,7 +52,7 @@ header p {
 @media (min-width: 426px) and (max-width: 768px) {
   .img-carousel {
     object-position: 42% 31%;
-    height: 84vh;
+    height: 64vh;
   }
 }
 @media (min-width: 320px) and (max-width: 425px) {
@@ -198,7 +198,7 @@ main h3 {
 @media (max-width: 768px) {
   .main__img {
     width: auto;
-    height: 54vh;
+    height: 40vh;
   }
 
   .main__texto {
@@ -475,7 +475,7 @@ nav a:hover {
   width: auto;
 }
 
-@media (max-width: 320px) {
+@media (max-width: 768px) {
   .jennifer {
     width: auto;
     height: auto;
@@ -561,7 +561,7 @@ nav a:hover {
   margin: 20px;
 }
 
-@media (max-width: 320px) {
+@media (max-width: 768px) {
   .eventos {
     flex-direction: column;
   }

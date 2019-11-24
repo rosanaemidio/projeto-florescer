@@ -7,7 +7,7 @@ header{
 .img-carousel{
     object-fit: cover;
     object-position: 0 50%;
-    height: 90vh;
+    height: 76vh;
 
 }
 
@@ -31,7 +31,7 @@ header p{
 @media (min-width:426px) and (max-width: 768px){
     .img-carousel {
         object-position: 42% 31%;
-        height: 84vh;
+        height: 64vh;
     }
 }
 
