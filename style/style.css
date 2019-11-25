@@ -209,7 +209,7 @@ main h3 {
     font-size: 14pt;
   }
 }
-@media (max-width: 320px) {
+@media (max-width: 425px) {
   .main__img {
     width: 100%;
     height: auto;
